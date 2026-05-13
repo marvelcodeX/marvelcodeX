@@ -13,9 +13,8 @@
 - 🔭 Currently working on **AI & NLP projects** (LegalBERT, RAG systems, mental wellness AI)
 - 🌱 Learning **Machine Learning, NLP, and Web3**
 - ✍️ I write on [Substack](https://substack.com/@nivedithajayakumar) & [Medium](https://medium.com/@nivedithaja)
-- 💼 Creative Intern @ [FiniteLoop](https://www.finiteloop.io/)
 - 🏆 Hackathon builder — Aventus 2.0, Recursive, Aventus 3.0, HackCulture
-- 📫 Reach me at **nivedithaja@gmail.com**
+- - 💼 Creative Intern @ [FiniteLoop](https://www.finiteloop.io/)
 
 ---
 
