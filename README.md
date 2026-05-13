@@ -1,5 +1,6 @@
 <h1 align="center">Niveditha Jayakumar</h1>
 <p align="center">Engineering Student · Builder · Writer · AI Enthusiast</p>
+<p align="center">Check out my <a href="https://marvelcodex.github.io/">Portfolio</a></p>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
@@ -14,8 +15,6 @@
   &nbsp;
   <img src="https://komarev.com/ghpvc/?username=marvelcodeX&style=flat-square&color=6e40c9&labelColor=161b22&label=views"/>
 </p>
-
-<p align="center">Check out my <a href="https://marvelcodex.github.io/">Portfolio</a></p>
 
 ---
 
@@ -37,7 +36,23 @@
   <img src="https://skillicons.dev/icons?i=python,javascript,react,flask,html,css,mysql,mongodb,git,vscode&theme=dark" />
 </p>
 
-`HuggingFace` `spaCy` `FAISS` `Sentence Transformers` `XGBoost` `Ollama` `Streamlit` `Pandas`
+<p align="center">
+  <img src="https://img.shields.io/badge/HuggingFace-161b22?style=flat-square&logo=huggingface&logoColor=ffa657"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/spaCy-161b22?style=flat-square&logo=spacy&logoColor=09a3d5"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/FAISS-161b22?style=flat-square&logo=meta&logoColor=0081FB"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/Sentence%20Transformers-161b22?style=flat-square&logo=pytorch&logoColor=EE4C2C"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/XGBoost-161b22?style=flat-square&logo=python&logoColor=7ee787"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/Ollama-161b22?style=flat-square&logo=ollama&logoColor=f0f6fc"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/Streamlit-161b22?style=flat-square&logo=streamlit&logoColor=FF4B4B"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/Pandas-161b22?style=flat-square&logo=pandas&logoColor=79c0ff"/>
+</p>
 
 ---
 
