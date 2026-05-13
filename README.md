@@ -1,12 +1,12 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,9,20&height=140&section=header&text=Niveditha%20Jayakumar&fontSize=34&fontColor=f0f6fc&fontAlignY=55&desc=Engineering%20Student%20·%20Builder%20·%20Writer%20·%20AI%20Enthusiast&descSize=13&descAlignY=78&descColor=8b949e" />
-</p>
-
-<p align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Space+Mono&size=13&pause=1000&color=7EE787&center=true&vCenter=true&width=500&lines=Building+AI+that+feels+human%2C+not+just+fast.;NLP+%7C+RAG+%7C+Mental+Wellness+AI;Writing+about+the+questions+tech+leaves+behind." />
   </a>
 </p>
+
+<h1 align="center">Niveditha Jayakumar</h1>
+<p align="center">Engineering Student · Builder · Writer · AI Enthusiast</p>
+<p>Check out my [Potfolio](https://marvelcodex.github.io/)</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/ISE%20%40%20DSCE-161b22?style=flat-square&logoColor=79c0ff&color=1f3d6b"/>
@@ -62,8 +62,4 @@
   <a href="https://marvelcodex.github.io/"><img src="https://img.shields.io/badge/Portfolio-f0f6fc?style=for-the-badge&logo=github&logoColor=0d1117"/></a>
   &nbsp;
   <a href="https://substack.com/@nivedithajayakumar"><img src="https://img.shields.io/badge/Substack-FF6719?style=for-the-badge&logo=substack&logoColor=white"/></a>
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,9,20&height=80&section=footer" />
 </p>
