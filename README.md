@@ -9,10 +9,6 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/ISE%20%40%20DSCE-161b22?style=flat-square&logoColor=79c0ff&color=1f3d6b"/>
-  &nbsp;
-  <img src="https://img.shields.io/badge/AI%20%2F%20NLP-161b22?style=flat-square&logoColor=7ee787&color=12261e"/>
-  &nbsp;
-  <img src="https://komarev.com/ghpvc/?username=marvelcodeX&style=flat-square&color=6e40c9&labelColor=161b22&label=views"/>
 </p>
 
 ---
