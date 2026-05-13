@@ -21,8 +21,6 @@
 **`~/about`**
 
 ```
-> cat about.md
-
   Name       : Niveditha Jayakumar
   Focus      : AI · NLP · Human-Centered Technology
   Status     : Engineering Student @ DSCE Bangalore
