@@ -14,7 +14,7 @@
 - 🌱 Learning **Machine Learning, NLP, and Web3**
 - ✍️ I write on [Substack](https://substack.com/@nivedithajayakumar) & [Medium](https://medium.com/@nivedithaja)
 - 🏆 Hackathon builder — Aventus 2.0, Recursive, Aventus 3.0, HackCulture
-- - 💼 Creative Intern @ [FiniteLoop](https://www.finiteloop.io/)
+- 💼 Creative Intern @ [FiniteLoop](https://www.finiteloop.io/)
 
 ---
 
@@ -38,11 +38,6 @@
 ---
 
 ### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=marvelcodeX&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marvelcodeX&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
-</p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=marvelcodeX&theme=tokyonight&hide_border=true" />
