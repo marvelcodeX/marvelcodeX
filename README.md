@@ -62,10 +62,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=marvelcodeX&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58a6ff&fire=ffa657&currStreakLabel=8b949e&sideLabels=8b949e" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=marvelcodeX&theme=github-compact&bg_color=0d1117&color=8b949e&line=58a6ff&point=7ee787&hide_border=true&area=true" />
-</p>
-
 ---
 
 **`~/connect`**
