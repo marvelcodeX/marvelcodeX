@@ -1,12 +1,11 @@
+<h1 align="center">Niveditha Jayakumar</h1>
+<p align="center">Engineering Student · Builder · Writer · AI Enthusiast</p>
+
 <p align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Space+Mono&size=13&pause=1000&color=7EE787&center=true&vCenter=true&width=500&lines=Building+AI+that+feels+human%2C+not+just+fast.;NLP+%7C+RAG+%7C+Mental+Wellness+AI;Writing+about+the+questions+tech+leaves+behind." />
   </a>
 </p>
-
-<h1 align="center">Niveditha Jayakumar</h1>
-<p align="center">Engineering Student · Builder · Writer · AI Enthusiast</p>
-<p>Check out my [Potfolio](https://marvelcodex.github.io/)</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/ISE%20%40%20DSCE-161b22?style=flat-square&logoColor=79c0ff&color=1f3d6b"/>
@@ -15,6 +14,8 @@
   &nbsp;
   <img src="https://komarev.com/ghpvc/?username=marvelcodeX&style=flat-square&color=6e40c9&labelColor=161b22&label=views"/>
 </p>
+
+<p align="center">Check out my <a href="https://marvelcodex.github.io/">Portfolio</a></p>
 
 ---
 
