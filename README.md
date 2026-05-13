@@ -13,25 +13,22 @@
   &nbsp;
   <img src="https://img.shields.io/badge/AI%20%2F%20NLP-161b22?style=flat-square&logoColor=7ee787&color=12261e"/>
   &nbsp;
-  <img src="https://img.shields.io/badge/4×%20Hackathon-161b22?style=flat-square&logoColor=ffa657&color=3d2800"/>
-  &nbsp;
   <img src="https://komarev.com/ghpvc/?username=marvelcodeX&style=flat-square&color=6e40c9&labelColor=161b22&label=views"/>
 </p>
 
 <br/>
+**`~/about`**
 
-Name       :  Niveditha Jayakumar
-Focus      :  AI · NLP · Human-Centered Technology
-Status     :  Engineering Student @ DSCE Bangalore
-Hackathons :  Aventus 2.0 · Recursive · Aventus 3.0 · HackCulture - WitchHunt
-Work       :  Creative Intern @ FiniteLoop
+```
+> cat about.md
 
-<br/>
-
-- 🔭 Building AI that is emotionally aware, not just technically capable
-- 🌱 Currently deep in **NLP, RAG systems & LLMs**
-- ✍️ Writing on [Substack](https://substack.com/@nivedithajayakumar) & [Medium](https://medium.com/@nivedithaja) — tech, philosophy, ideas
-
+  Name       : Niveditha Jayakumar
+  Focus      : AI · NLP · Human-Centered Technology
+  Status     : Engineering Student @ DSCE Bangalore
+  Writing    : [Substack](https://substack.com/@nivedithajayakumar) & [Medium](https://medium.com/@nivedithaja) — tech, philosophy, ideas
+  Hackathons : Aventus 2.0 · Recursive · Aventus 3.0 · HackCulture
+  Work       : Creative Intern @ FiniteLoop
+```
 <br/>
 
 ---
