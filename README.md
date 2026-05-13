@@ -16,7 +16,8 @@
   <img src="https://komarev.com/ghpvc/?username=marvelcodeX&style=flat-square&color=6e40c9&labelColor=161b22&label=views"/>
 </p>
 
-<br/>
+---
+
 **`~/about`**
 
 ```
@@ -25,12 +26,10 @@
   Name       : Niveditha Jayakumar
   Focus      : AI · NLP · Human-Centered Technology
   Status     : Engineering Student @ DSCE Bangalore
-  Writing    : [Substack](https://substack.com/@nivedithajayakumar) & [Medium](https://medium.com/@nivedithaja) — tech, philosophy, ideas
+  Writing    : Substack & Medium — tech, philosophy, ideas
   Hackathons : Aventus 2.0 · Recursive · Aventus 3.0 · HackCulture
   Work       : Creative Intern @ FiniteLoop
 ```
-<br/>
-
 ---
 
 **`~/stack`**
@@ -87,12 +86,6 @@
 ---
 
 **`~/stats`**
-
-<p align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=marvelcodeX&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=7ee787&text_color=8b949e&rank_icon=github&hide=contribs"/>
-  &nbsp;
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marvelcodeX&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e"/>
-</p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=marvelcodeX&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58a6ff&fire=ffa657&currStreakLabel=8b949e&sideLabels=8b949e" />
