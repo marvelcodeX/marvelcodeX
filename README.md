@@ -40,49 +40,6 @@
 
 ---
 
-**`~/projects`**
-
-<table width="100%">
-<tr>
-<td width="50%" valign="top">
-
-**[🧠 Manasvi](https://github.com/marvelcodeX/Manasvi)**
-<br/>AI mental wellness chatbot — mood analysis, pranayama & culturally grounded support for Indian users.
-<br/><br/>
-`Python` `Flask` `NLP`
-
-</td>
-<td width="50%" valign="top">
-
-**[⚖️ NLP Contract Analyzer](https://github.com/marvelcodeX/NLP-Contract-Classifier)**
-<br/>Legal clause classifier using LegalBERT with end-to-end document analysis in a Flask interface.
-<br/><br/>
-`LegalBERT` `Python` `Flask`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-**[📄 PDF Intelligence](https://github.com/marvelcodeX/PDF-Intelligence-System-Using-RAG)**
-<br/>Local RAG system — query any PDF with natural language. No API keys, no cloud, fully private.
-<br/><br/>
-`FAISS` `Ollama` `Streamlit`
-
-</td>
-<td width="50%" valign="top">
-
-**[☀️ SuryaVeda](https://github.com/marvelcodeX/SuryaVeda)**
-<br/>AI energy analytics — predicts household electricity usage & solar generation with ROI forecasting.
-<br/><br/>
-`XGBoost` `React` `Flask`
-
-</td>
-</tr>
-</table>
-
----
-
 **`~/stats`**
 
 <p align="center">
