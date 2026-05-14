@@ -17,7 +17,7 @@
 
 ```
   Name       : Niveditha Jayakumar
-  Focus      : AI · NLP · Human-Centered Technology
+  Focus      : AI · NLP · Meaningful Technology
   Status     : Engineering Student @ DSCE Bangalore
   Writing    : Substack & Medium — tech, philosophy, ideas
   Hackathons : Aventus 2.0 · Recursive · Aventus 3.0 · HackCulture
