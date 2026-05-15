@@ -3,7 +3,7 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Space+Mono&size=13&pause=1000&color=7EE787&center=true&vCenter=true&width=500&lines=Building+AI+that+feels+human%2C+not+just+fast.;NLP+%7C+RAG+%7C+Ethical Tech;Writing+about+the+questions+tech+leaves+behind." />
+    <img src="https://readme-typing-svg.demolab.com?font=Space+Mono&size=13&pause=1000&color=7EE787&center=true&vCenter=true&width=500&lines=Building+AI+that+feels+human%2C+not+just+fast.;NLP+%7C+RAG+%7C+Ethical+Tech;Writing+about+the+questions+tech+leaves+behind." />
   </a>
 </p>
 
