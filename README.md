@@ -84,37 +84,25 @@
     <img src="https://img.shields.io/badge/spaCy-161b22?style=flat-square&logo=spacy&logoColor=09a3d5"/>
   </a>
 
-  &nbsp;
-
   <a href="https://faiss.ai/" target="_blank">
     <img src="https://img.shields.io/badge/FAISS-161b22?style=flat-square&logo=meta&logoColor=0081FB"/>
   </a>
-
-  &nbsp;
-
+  
   <a href="https://www.sbert.net/" target="_blank">
     <img src="https://img.shields.io/badge/Sentence%20Transformers-161b22?style=flat-square&logo=pytorch&logoColor=EE4C2C"/>
   </a>
-
-  &nbsp;
 
   <a href="https://xgboost.ai/" target="_blank">
     <img src="https://img.shields.io/badge/XGBoost-161b22?style=flat-square&logo=python&logoColor=7ee787"/>
   </a>
 
-  &nbsp;
-
   <a href="https://ollama.com/" target="_blank">
     <img src="https://img.shields.io/badge/Ollama-161b22?style=flat-square&logo=ollama&logoColor=f0f6fc"/>
   </a>
 
-  &nbsp;
-
   <a href="https://streamlit.io/" target="_blank">
     <img src="https://img.shields.io/badge/Streamlit-161b22?style=flat-square&logo=streamlit&logoColor=FF4B4B"/>
   </a>
-
-  &nbsp;
 
   <a href="https://pandas.pydata.org/" target="_blank">
     <img src="https://img.shields.io/badge/Pandas-161b22?style=flat-square&logo=pandas&logoColor=79c0ff"/>
