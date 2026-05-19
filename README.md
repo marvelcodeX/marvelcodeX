@@ -127,19 +127,16 @@
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 
-  &nbsp;
 
   <a href="mailto:nivedithaja@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 
-  &nbsp;
 
   <a href="https://marvelcodex.github.io/">
     <img src="https://img.shields.io/badge/Portfolio-f0f6fc?style=for-the-badge&logo=github&logoColor=0d1117"/>
   </a>
 
-  &nbsp;
 
   <a href="https://substack.com/@nivedithajayakumar">
     <img src="https://img.shields.io/badge/Substack-FF6719?style=for-the-badge&logo=substack&logoColor=white"/>
