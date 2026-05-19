@@ -78,7 +78,6 @@
     <img src="https://img.shields.io/badge/HuggingFace-161b22?style=flat-square&logo=huggingface&logoColor=ffa657"/>
   </a>
 
-  &nbsp;
 
   <a href="https://spacy.io/" target="_blank">
     <img src="https://img.shields.io/badge/spaCy-161b22?style=flat-square&logo=spacy&logoColor=09a3d5"/>
