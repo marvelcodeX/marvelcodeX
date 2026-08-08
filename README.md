@@ -1,5 +1,5 @@
 <h1 align="center">Niveditha Jayakumar</h1>
-<p align="center">Engineering Student · Builder · Writer · AI Enthusiast</p>
+<p align="center">Engineering Student · Builder · Writer</p>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
