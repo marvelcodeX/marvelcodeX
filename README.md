@@ -17,10 +17,10 @@
 
 ```txt
   Name       : Niveditha Jayakumar
-  Focus      : AI · NLP · Meaningful Technology
+  Focus      : Cybersecurity · AI · NLP
   Status     : Engineering Student @ DSCE Bangalore
   Writing    : Substack & Medium — tech, philosophy, ideas
-  Hackathons : Aventus 2.0 · Recursive · Aventus 3.0 · HackCulture
+  Hackathons : Aventus 2.0 · Recursive · Aventus 3.0 · WitchHunt
   Work       : Creative Intern @ FiniteLoop
 ```
 
