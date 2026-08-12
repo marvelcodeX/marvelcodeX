@@ -2,13 +2,13 @@
 <p align="center">Engineering Student · Builder · Writer</p>
 
 <p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Space+Mono&size=13&pause=1000&color=7EE787&center=true&vCenter=true&width=500&lines=Building+secure+AI;Cybersecurity+%7C+AI+%7C+NLP+Ethical Tech;Writing+about+the+questions+tech+leaves+behind." />
+  <a href="https://readme-typing-svg.demolab.com/">
+    <img src="https://readme-typing-svg.demolab.com?font=Space+Mono&size=13&pause=1000&color=7EE787&center=true&vCenter=true&width=500&lines=Building+secure+AI;Cybersecurity+%7C+AI+%7C+NLP+%7C+Ethical+Tech;Writing+about+the+questions+tech+leaves+behind" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/ISE%20%40%20DSCE-161b22?style=flat-square&logoColor=79c0ff&color=1f3d6b"/>
+  <img src="https://img.shields.io/badge/ISE%20%40%20DSCE-161b22?style=flat-square&logoColor=79c0ff&color=1f3d6b" />
 </p>
 
 ---
