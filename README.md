@@ -114,7 +114,7 @@
 **`~/stats`**
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=marvelcodeX&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58a6ff&fire=ffa657&currStreakLabel=8b949e&sideLabels=8b949e" />
+  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=marvelcodeX&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58a6ff&fire=ffa657&currStreakLabel=8b949e&sideLabels=8b949e" />
 </p>
 
 ---
